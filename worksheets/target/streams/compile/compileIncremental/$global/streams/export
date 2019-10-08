@@ -1,0 +1,1 @@
+scalac -classpath /Users/andreinicusan/Prog/Scala/Coursera/worksheets/target/scala-2.12/classes -bootclasspath /Users/andreinicusan/.sbt/boot/scala-2.12.7/lib/scala-library.jar /Users/andreinicusan/Prog/Scala/Coursera/worksheets/test.scala

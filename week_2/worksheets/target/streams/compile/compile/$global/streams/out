@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/andreinicusan/Prog/Scala/Coursera/week_2/worksheets/main.scala:31:26: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: Double[0m
+[0m[[0m[31merror[0m] [0m[0m    abs((x - y) / x) / x < tolerance[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/andreinicusan/Prog/Scala/Coursera/week_2/worksheets/main.scala:36:24: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m      if (isCloseEnough(guess, next)) next[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

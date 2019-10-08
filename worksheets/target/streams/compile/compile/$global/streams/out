@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/andreinicusan/Prog/Scala/Coursera/worksheets/test.scala:10:73: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m  def isGoodEnough(guess: Double, x: Double) = abs(guess - x / guess) < if (x < 1000) 1e-4 * x else 1e-4[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
